@@ -1,0 +1,10 @@
+[
+    {
+        "ref": "https://example.com/blog/about/",
+        "title": "$WHOAMI",
+        "section": "blog",
+        "tags": ["about"],
+        "date" : "2021.04.10",
+        "body": "WHOAMI 💗 My name is Attila, I\u0026rsquo;m 6 years old. I\u0026rsquo;m not can\u0026rsquo;t draw nice, but I\u0026rsquo;m good with computers so instead of drawing a web page design I use Hugo to make a site. I\u0026rsquo;m learning HTML and CSS at __FreeCodeCamp and Python at CodeCombat. My dad is helping me a lot.\n💜 💜 💜 I like computers and coding!💜 💜 💜 "
+    }
+]
