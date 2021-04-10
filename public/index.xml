@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Site</title>
-    <link>https://example.com/</link>
+    <link>https://attilascp.github.io/</link>
     <description>Recent content on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://attilascp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>$WHOAMI</title>
-      <link>https://example.com/blog/about/</link>
+      <link>https://attilascp.github.io/blog/about/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/about/</guid>
+      <guid>https://attilascp.github.io/blog/about/</guid>
       <description>WHOAMI 💗 My name is Attila, I&amp;rsquo;m 6 years old. I&amp;rsquo;m not can&amp;rsquo;t draw nice, but I&amp;rsquo;m good with computers so instead of drawing a web page design I use Hugo to make a site. I&amp;rsquo;m learning HTML and CSS at __FreeCodeCamp and Python at CodeCombat. My dad is helping me a lot.
 💜 💜 💜 I like computers and coding!💜 💜 💜 </description>
     </item>

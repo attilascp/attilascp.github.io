@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://attilascp.github.io/"
 title = "My Site"
 theme = "pulp"
 canonifyurls = true
@@ -47,5 +47,5 @@ enableEmoji = true
     identifier = "email"
     name = "Email"
     pre = "<i class='fas fa-rocket'></i>"
-    url = "mailto:username@example.com"
+    url = "mailto:attila+gitscp@citapersada.sch.id"
     weight = 30
