@@ -1,5 +1,5 @@
 # attilascp.github.io
-My digital literacy project/site.
+My digital literacy project/site. Available at: https://attilascp.github.io
 
 ![Alt text](https://www.opensuse.org/build/images/countdown-alex.png)
 
